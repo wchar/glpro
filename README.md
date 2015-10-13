@@ -4,7 +4,9 @@
 * auto refresh
 * great extension
 
-#fire effect examples
+
+### fire effect examples
+
 
 	emittor
 	{
@@ -37,7 +39,8 @@
 
 ![p1](https://github.com/wchar/glpro/blob/master/photos/fire.png)
 
-# colorful effect example
+
+### colorful effect example
 
 	emittor
 	{
@@ -79,5 +82,6 @@
 
 ![p2](https://github.com/wchar/glpro/blob/master/photos/colorful.png)
 
-# mult emittor view
+
+### mult emittor view
 ![p3](https://github.com/wchar/glpro/blob/master/photos/mult.png)
