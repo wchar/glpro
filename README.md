@@ -2,7 +2,7 @@
 
 * lua config base
 * auto refresh
-* great extension
+* free extension
 
 
 ### fire effect sample
