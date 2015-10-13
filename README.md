@@ -5,7 +5,7 @@
 * great extension
 
 
-### fire effect examples
+### fire effect sample
 
 
 	emittor
@@ -40,7 +40,7 @@
 ![p1](https://github.com/wchar/glpro/blob/master/photos/fire.png)
 
 
-### colorful effect example
+### colorful effect sample
 
 	emittor
 	{
