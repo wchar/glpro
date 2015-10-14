@@ -83,5 +83,5 @@
 ![p2](https://github.com/wchar/glpro/blob/master/photos/colorful.png)
 
 
-### mult emittor supposted
+### multi emittor supposted
 ![p3](https://github.com/wchar/glpro/blob/master/photos/mult.png)
